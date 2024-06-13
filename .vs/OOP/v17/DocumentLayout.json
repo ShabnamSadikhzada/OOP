@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C6220A7-DEC2-47F5-A2C0-BFF5ECB4D84A}|News\\News.csproj|c:\\users\\shabnamjs\\source\\repos\\oop\\news\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6220A7-DEC2-47F5-A2C0-BFF5ECB4D84A}|News\\News.csproj|solutionrelative:news\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6220A7-DEC2-47F5-A2C0-BFF5ECB4D84A}|News\\News.csproj|c:\\users\\shabnamjs\\source\\repos\\oop\\news\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6220A7-DEC2-47F5-A2C0-BFF5ECB4D84A}|News\\News.csproj|solutionrelative:news\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{254DC124-099D-4861-8E36-2F295F75C51E}|Delegate_\\Delegate_.csproj|c:\\users\\shabnamjs\\source\\repos\\oop\\delegate_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254DC124-099D-4861-8E36-2F295F75C51E}|Delegate_\\Delegate_.csproj|solutionrelative:delegate_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\News\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "News\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\News\\Models\\Employee.cs",
-              "RelativeToolTip": "News\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:15:02.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\News\\Program.cs",
-              "RelativeDocumentMoniker": "News\\Program.cs",
-              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\News\\Program.cs",
-              "RelativeToolTip": "News\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAADwvzwAAAAKAAAA",
+              "DocumentMoniker": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\Delegate_\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_\\Program.cs",
+              "ToolTip": "C:\\Users\\shabnamjs\\source\\repos\\OOP\\Delegate_\\Program.cs",
+              "RelativeToolTip": "Delegate_\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:13:57.893Z",
+              "WhenOpened": "2024-06-13T07:56:47.327Z",
               "EditorCaption": ""
             }
           ]

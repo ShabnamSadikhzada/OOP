@@ -16,15 +16,33 @@ public record Personel
 public record Employee(string FirstName, string LastName, string Email, string Phone, Personel Personel);
 
 
-public record Category
+public class Category
 {
-    public Category()
+    //public Category()
+    //{
+    //    //this.Name = "Beverages";
+    //    this.Description = "Bu bir kategoridir";
+    //}
+    //public int Id { get; set; }
+    //public required string Name { get; set; }
+    //public string Description { get; init; } = "default description";
+    //public string ImageUrl { get; set; }
+
+    public Category() { }
+    public Category(string name, string description)
     {
-        //this.Name = "Beverages";
-        this.Description = "Bu bir kategoridir";
+        this.Name = name;
+        this.Description = description;
     }
+
     public int Id { get; set; }
-    public required string Name { get; set; }
-    public string Description { get; init; } = "default description";
+    public string Name { get; set; }
+    public string Description { get; set; }
     public string ImageUrl { get; set; }
+
+    public void Update(string name, string description)
+    {
+        this.Name = name;
+        this.Description = description;
+    }
 }

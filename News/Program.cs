@@ -52,12 +52,17 @@ internal class Program
 
         #endregion
 
-        Category c = new()
-        {
-            Name = "",
-            //Description = "Aciklama"
-        };
+        //Category c = new()
+        //{
+        //    Name = "",
+        //    //Description = "Aciklama"
+        //};
 
         //c.Description = "Aciklama";
+
+        Category updated = new();
+        updated.Update("","");
+
+        Category newC = new("","");
     }
 }
