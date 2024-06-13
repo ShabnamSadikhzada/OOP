@@ -1,0 +1,14 @@
+C:\Users\shabnamjs\source\repos\OOP\Interface_\bin\Debug\net8.0\Interface_.exe
+C:\Users\shabnamjs\source\repos\OOP\Interface_\bin\Debug\net8.0\Interface_.deps.json
+C:\Users\shabnamjs\source\repos\OOP\Interface_\bin\Debug\net8.0\Interface_.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\OOP\Interface_\bin\Debug\net8.0\Interface_.dll
+C:\Users\shabnamjs\source\repos\OOP\Interface_\bin\Debug\net8.0\Interface_.pdb
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.dll
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\refint\Interface_.dll
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.pdb
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\Interface_.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\OOP\Interface_\obj\Debug\net8.0\ref\Interface_.dll

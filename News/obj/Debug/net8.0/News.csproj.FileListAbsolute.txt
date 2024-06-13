@@ -1,0 +1,14 @@
+C:\Users\shabnamjs\source\repos\OOP\News\bin\Debug\net8.0\News.exe
+C:\Users\shabnamjs\source\repos\OOP\News\bin\Debug\net8.0\News.deps.json
+C:\Users\shabnamjs\source\repos\OOP\News\bin\Debug\net8.0\News.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\OOP\News\bin\Debug\net8.0\News.dll
+C:\Users\shabnamjs\source\repos\OOP\News\bin\Debug\net8.0\News.pdb
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.dll
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\refint\News.dll
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.pdb
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\News.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\OOP\News\obj\Debug\net8.0\ref\News.dll

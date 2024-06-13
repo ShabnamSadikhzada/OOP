@@ -1,0 +1,14 @@
+C:\Users\shabnamjs\source\repos\OOP\Enum_\bin\Debug\net8.0\Enum_.exe
+C:\Users\shabnamjs\source\repos\OOP\Enum_\bin\Debug\net8.0\Enum_.deps.json
+C:\Users\shabnamjs\source\repos\OOP\Enum_\bin\Debug\net8.0\Enum_.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\OOP\Enum_\bin\Debug\net8.0\Enum_.dll
+C:\Users\shabnamjs\source\repos\OOP\Enum_\bin\Debug\net8.0\Enum_.pdb
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.dll
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\refint\Enum_.dll
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.pdb
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\Enum_.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\OOP\Enum_\obj\Debug\net8.0\ref\Enum_.dll

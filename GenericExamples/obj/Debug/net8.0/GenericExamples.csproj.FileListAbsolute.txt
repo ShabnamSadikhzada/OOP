@@ -1,0 +1,14 @@
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\bin\Debug\net8.0\GenericExamples.exe
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\bin\Debug\net8.0\GenericExamples.deps.json
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\bin\Debug\net8.0\GenericExamples.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\bin\Debug\net8.0\GenericExamples.dll
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\bin\Debug\net8.0\GenericExamples.pdb
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.dll
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\refint\GenericExamples.dll
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.pdb
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\GenericExamples.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\OOP\GenericExamples\obj\Debug\net8.0\ref\GenericExamples.dll
