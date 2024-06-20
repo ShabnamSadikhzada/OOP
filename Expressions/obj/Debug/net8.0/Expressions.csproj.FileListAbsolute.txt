@@ -1,0 +1,15 @@
+C:\Users\shabnamjs\source\repos\OOP\Expressions\bin\Debug\net8.0\Expressions.exe
+C:\Users\shabnamjs\source\repos\OOP\Expressions\bin\Debug\net8.0\Expressions.deps.json
+C:\Users\shabnamjs\source\repos\OOP\Expressions\bin\Debug\net8.0\Expressions.runtimeconfig.json
+C:\Users\shabnamjs\source\repos\OOP\Expressions\bin\Debug\net8.0\Expressions.dll
+C:\Users\shabnamjs\source\repos\OOP\Expressions\bin\Debug\net8.0\Expressions.pdb
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfoInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.AssemblyInfo.cs
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.sourcelink.json
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.dll
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\refint\Expressions.dll
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.pdb
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\Expressions.genruntimeconfig.cache
+C:\Users\shabnamjs\source\repos\OOP\Expressions\obj\Debug\net8.0\ref\Expressions.dll
